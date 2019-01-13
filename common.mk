@@ -12,3 +12,6 @@ include vendor/sysiconswitcher/sysiconswitcher.mk
 
 # Themes
 include vendor/themes/uithemes/uithemes.mk
+
+# UI Switcher
+include vendor/uiswitcher/uiswitcher.mk
