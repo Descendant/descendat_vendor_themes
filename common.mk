@@ -8,10 +8,10 @@ include vendor/themes/accents/accents.mk
 include vendor/themes/bootanimation/bootanimation.mk
 
 # System Icon Switcher 
-include vendor/sysiconswitcher/sysiconswitcher.mk
+include vendor/themes/sysiconswitcher/sysiconswitcher.mk
 
 # Themes
 include vendor/themes/uithemes/uithemes.mk
 
 # UI Switcher
-include vendor/uiswitcher/uiswitcher.mk
+include vendor/themes/uiswitcher/uiswitcher.mk

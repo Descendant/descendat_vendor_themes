@@ -13,7 +13,7 @@
 # limitations under the License.
 #
 
-PRODUCT_PACKAGES += \ 
+PRODUCT_PACKAGES += \
     RoundierUIandroid \
     RoundierUIsys \
     SquareUIandroid \
