@@ -44,4 +44,7 @@
     <color name="notification_default_color_light">@*android:color/theme_text1</color>
     <color name="notification_default_color_dark">@*android:color/theme_text1</color>
 
+    <!-- Homepage background color -->
+    <color name="homepage_background_color">#474747</color>
+
 </resources>
