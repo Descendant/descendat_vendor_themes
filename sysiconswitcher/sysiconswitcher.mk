@@ -17,6 +17,8 @@ PRODUCT_PACKAGES += \
     DescendantQS \
     DescendantSettings \
     DescendantWellbeing \
+    LemonQS \
+    LemonSettings \
     SquareQS \
     SquareSettings \
     SuperBubbleQS \
