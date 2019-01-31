@@ -14,6 +14,7 @@
 #
 
 PRODUCT_PACKAGES += \
+    DescendantGMS \
     DescendantQS \
     DescendantSettings \
     DescendantWellbeing \
