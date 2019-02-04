@@ -4,4 +4,5 @@ PRODUCT_PACKAGES += \
     GBoardLight \
     SettingsDark \
     SettingsIntelligenceDark \
-    SystemDark
+    SystemDark \
+    WellbeingDark
