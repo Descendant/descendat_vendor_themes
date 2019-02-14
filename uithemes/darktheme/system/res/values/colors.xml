@@ -68,4 +68,7 @@
     <!-- Homepage background color -->
     <color name="homepage_background_color">#474747</color>
 
+    <!-- QS footer drag -->
+    <color name="qs_footer_drag">#e5e5e5</color>
+
 </resources>
