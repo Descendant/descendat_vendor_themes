@@ -1,9 +1,16 @@
 # Themes
 PRODUCT_PACKAGES += \
-    GBoardDark \
+#    GBoardDark \
     GBoardLight \
-    SettingsDark \
-    SettingsIntelligenceDark \
-    SystemDark \
-    SystemUiDark \
-    WellbeingDark
+#    SettingsDark \
+#    SettingsIntelligenceDark \
+#    SystemDark \
+#    SystemUiDark \
+#    WellbeingDark \
+    SystemBlackTheme \
+    SettingsBlackTheme \
+    SystemUIBlackTheme \
+    ContactsThemeBlack \
+    DialerThemeBlack \
+    WellbeingBlackTheme 
+ 
