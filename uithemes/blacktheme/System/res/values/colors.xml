@@ -60,5 +60,8 @@
     <!-- Two target preference vertical divider color -->
     <color name="list_divider_dark">@*android:color/black</color>
 
+    <!-- Homepage background color -->
+    <color name="homepage_background_color">#191919</color>
+
 </resources>
 
