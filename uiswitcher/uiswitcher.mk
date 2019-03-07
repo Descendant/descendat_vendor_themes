@@ -15,7 +15,9 @@
 
 PRODUCT_PACKAGES += \
     RoundierUIandroid \
+    RoundierUIsettings \
     RoundierUIsys \
     SquareUIandroid \
     SquareUIsys \
+    SquareUIsettings \
     ThumbUI
