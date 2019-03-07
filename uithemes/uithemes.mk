@@ -4,7 +4,5 @@ PRODUCT_PACKAGES += \
     SystemBlackTheme \
     SystemUIBlackTheme \
     SettingsBlackTheme \
-    ContactsThemeBlack \
-    DialerThemeBlack \
     WellbeingBlackTheme 
  
